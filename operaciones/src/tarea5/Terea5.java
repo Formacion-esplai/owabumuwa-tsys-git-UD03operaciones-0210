@@ -10,16 +10,16 @@ public class Terea5 {
 			int D = 12;
 			
 			B = C;
-			System.out.println("B ahora es " + B);
+			System.out.println("B ahora es " + C);
 			
 			C = A;
-			System.out.println("C ahra es " + C);
+			System.out.println("C ahra es " + A);
 			
 			A = D;
-			System.out.println("A ahora es " + A);
+			System.out.println("A ahora es " + D);
 			
 			D = B;
-			System.out.println("D ahora es " + D);
+			System.out.println("D ahora es " + B);
 			
 		  }
 
